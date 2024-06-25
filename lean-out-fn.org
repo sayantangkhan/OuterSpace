@@ -1,0 +1,15 @@
+#+STARTUP: indent
+#+STARTUP: overview
+#+OPTIONS: p:t
+#+TITLE: Todos and logs for the Out(Fn) project
+
+* Things to do
+** TODO Background research [2/3]
+- [X] Find existing geometric group theory projects: nothing conclusive, based on Zulip search.
+- [X] Fundamental group and related lemmas: In the Algebraic Topology module.
+** TODO Basic definitions
+- [ ] Figure out how to turn a graph with a choice of maximal tree (with orientations on the complementary edges) into a presented group.
+- [ ] Define graph morphisms and immersions.
+- [ ] Prove some basic lemmas to get warmed up.
+
+* Logs

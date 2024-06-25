@@ -1,3 +1,4 @@
 -- This module serves as the root of the `OuterSpace` library.
 -- Import modules here that should be built as part of the library.
-import «OuterSpace».Basic
+import «OuterSpace».MarkedGraphs
+import «OuterSpace».TreeUtilities

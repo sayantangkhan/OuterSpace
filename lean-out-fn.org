@@ -8,6 +8,8 @@
 - [X] Find existing geometric group theory projects: nothing conclusive, based on Zulip search.
 - [X] Fundamental group and related lemmas: In the Algebraic Topology module.
 ** TODO Basic definitions
+- [ ] Create a MultiGraph type with the necessary lemmas proven.
+- [ ] Figure out the best way to describe a subgraph of a multigraph: can define adjecency as a ~Finset range n~, and equality of the Finsets will determine equality of subgraphs.
 - [ ] Figure out how to turn a graph with a choice of maximal tree (with orientations on the complementary edges) into a presented group.
 - [ ] Define graph morphisms and immersions.
 - [ ] Prove some basic lemmas to get warmed up.
